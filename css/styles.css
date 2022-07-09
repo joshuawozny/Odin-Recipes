@@ -1,0 +1,25 @@
+img{
+    width: auto;
+    height:250px;
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+.recipe-desc{
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    background-color: antiquewhite;
+    color:brown
+}
+.recipe-steps{
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color:cornflowerblue;
+    color:blue
+}
+h2{
+    color: fuchsia;
+}
